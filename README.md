@@ -1,2 +1,2 @@
 # estudospy
- Local destinado à meus estudos de Lógica de Programação em Python
+Aqui você encontrará meus avanços nos estudos de Lógica de Programação e Algoritmos em Python
